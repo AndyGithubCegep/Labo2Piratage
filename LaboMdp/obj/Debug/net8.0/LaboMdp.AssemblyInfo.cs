@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LaboMdp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7be6fad2d92c6430f1d0b79c34e581be920e9faa")]
 [assembly: System.Reflection.AssemblyProductAttribute("LaboMdp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LaboMdp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

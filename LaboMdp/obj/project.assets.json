@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CEGEP\\semestre 5\\Piratage\\Labo2\\LaboMdp\\LaboMdp\\LaboMdp.csproj",
+      "projectUniqueName": "C:\\CEGEP\\semestre 5\\Piratage\\Labo2\\Labo2Piratage\\LaboMdp\\LaboMdp.csproj",
       "projectName": "LaboMdp",
-      "projectPath": "C:\\CEGEP\\semestre 5\\Piratage\\Labo2\\LaboMdp\\LaboMdp\\LaboMdp.csproj",
+      "projectPath": "C:\\CEGEP\\semestre 5\\Piratage\\Labo2\\Labo2Piratage\\LaboMdp\\LaboMdp.csproj",
       "packagesPath": "C:\\Users\\etudiant\\.nuget\\packages\\",
-      "outputPath": "C:\\CEGEP\\semestre 5\\Piratage\\Labo2\\LaboMdp\\LaboMdp\\obj\\",
+      "outputPath": "C:\\CEGEP\\semestre 5\\Piratage\\Labo2\\Labo2Piratage\\LaboMdp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\etudiant\\AppData\\Roaming\\NuGet\\NuGet.Config",
